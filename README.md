@@ -1,4 +1,4 @@
-# Tour of Heroes angular app 1
+# Tour of Heroes angular app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
